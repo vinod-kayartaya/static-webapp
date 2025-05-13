@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px; /* Adds a fixed margin around the entire page */
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #007bff;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+section {
+  padding: 2rem;
+}
+
+.cta {
+  background: #f4f4f4;
+  padding: 2rem;
+  text-align: center;
+}
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
